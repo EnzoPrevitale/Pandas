@@ -1,0 +1,101 @@
+Nome,Sobrenome,Idade,Cidade,Cor,Esporte,Gênero,Gênero musical,Profissão
+Ana,Santos,29,Rio de Janeiro,Azul,Futebol,Feminino,Pop,Arquiteta
+João,Silva,34,São Paulo,Verde,Basquete,Masculino,Rock,Engenheiro
+Maria,Oliveira,22,Salvador,Amarelo,Natação,Feminino,Samba,Designer
+Pedro,Martins,26,Belo Horizonte,Vermelho,Handebol,Masculino,MPB,Professor
+Carla,Almeida,31,Curitiba,Laranja,Judô,Feminino,Sertanejo,Advogada
+Lucas,Fernandes,28,Porto Alegre,Preto,Vôlei,Masculino,Eletrônica,Médico
+Sofia,Rocha,24,Recife,Branco,Tênis,Feminino,Jazz,Psicóloga
+Paulo,Castro,33,Fortaleza,Azul,Corrida,Masculino,Rock,Motorista
+Isabela,Barros,27,Florianópolis,Verde,Futebol,Feminino,Pop,Arquiteta
+Rafael,Melo,25,Brasília,Amarelo,Basquete,Masculino,MPB,Professor
+Clara,Pereira,32,Goiania,Preto,Natação,Feminino,Sertanejo,Designer
+Felipe,Ribeiro,30,Campinas,Vermelho,Handebol,Masculino,Eletrônica,Engenheiro
+Bruna,Gomes,21,Curitiba,Laranja,Judô,Feminino,Jazz,Estudante
+Gustavo,Pereira,23,São Paulo,Branco,Vôlei,Masculino,Pop,Advogado
+Beatriz,Souza,29,Rio de Janeiro,Azul,Tênis,Feminino,Samba,Psicóloga
+Eduardo,Castro,35,Recife,Verde,Corrida,Masculino,Rock,Motorista
+Lívia,Silva,22,Porto Alegre,Amarelo,Futebol,Feminino,MPB,Designer
+Ricardo,Oliveira,27,Salvador,Preto,Basquete,Masculino,Eletrônica,Engenheiro
+Viviane,Melo,34,Belo Horizonte,Vermelho,Natação,Feminino,Jazz,Estudante
+Carlos,Rocha,26,Florianópolis,Laranja,Handebol,Masculino,Sertanejo,Arquiteto
+Mariana,Almeida,24,Goiania,Branco,Judô,Feminino,Samba,Professora
+Bruno,Barros,33,Fortaleza,Azul,Vôlei,Masculino,Pop,Advogado
+Paula,Santos,21,Brasília,Verde,Tênis,Feminino,Rock,Psicóloga
+Thiago,Fernandes,28,Campinas,Amarelo,Corrida,Masculino,MPB,Motorista
+Luana,Silva,32,São Paulo,Preto,Futebol,Feminino,Eletrônica,Arquiteta
+Felipe,Martins,31,Recife,Vermelho,Basquete,Masculino,Jazz,Designer
+Eduarda,Gomes,25,Curitiba,Laranja,Natação,Feminino,Sertanejo,Estudante
+Marcelo,Ribeiro,30,Porto Alegre,Branco,Handebol,Masculino,Samba,Professor
+Aline,Souza,26,Florianópolis,Azul,Judô,Feminino,Pop,Psicóloga
+Alexandre,Castro,33,Goiania,Verde,Vôlei,Masculino,MPB,Engenheiro
+Priscila,Oliveira,29,Rio de Janeiro,Amarelo,Tênis,Feminino,Rock,Advogada
+Carlos,Almeida,24,Salvador,Preto,Corrida,Masculino,Eletrônica,Médico
+Jéssica,Santos,21,Belo Horizonte,Vermelho,Futebol,Feminino,Jazz,Designer
+Tiago,Melo,32,Campinas,Laranja,Basquete,Masculino,Sertanejo,Estudante
+Caroline,Ribeiro,23,Fortaleza,Branco,Natação,Feminino,Pop,Psicóloga
+Renato,Silva,28,Florianópolis,Azul,Handebol,Masculino,MPB,Motorista
+Fernanda,Barros,31,São Paulo,Verde,Judô,Feminino,Samba,Professora
+Gabriel,Martins,26,Goiania,Amarelo,Vôlei,Masculino,Rock,Engenheiro
+Amanda,Oliveira,29,Brasília,Preto,Tênis,Feminino,Jazz,Psicóloga
+Diego,Pereira,24,Recife,Branco,Corrida,Masculino,Eletrônica,Motorista
+Cíntia,Fernandes,25,Porto Alegre,Vermelho,Futebol,Feminino,Sertanejo,Estudante
+Vinícius,Castro,33,Curitiba,Laranja,Basquete,Masculino,Pop,Arquiteto
+Michele,Rocha,22,São Paulo,Azul,Natação,Feminino,Jazz,Advogada
+Marcos,Silva,35,Rio de Janeiro,Verde,Handebol,Masculino,MPB,Engenheiro
+Jessica,Santos,30,Belo Horizonte,Amarelo,Judô,Feminino,Sertanejo,Designer
+Gabriela,Barros,23,Salvador,Preto,Vôlei,Feminino,Eletrônica,Psicóloga
+Eduardo,Fernandes,28,Goiania,Branco,Tênis,Masculino,Rock,Médico
+Rita,Oliveira,24,Fortaleza,Azul,Corrida,Feminino,Jazz,Advogada
+Thiago,Almeida,32,Florianópolis,Verde,Futebol,Masculino,Samba,Psicólogo
+José,Souza,27,Recife,Amarelo,Basquete,Masculino,MPB,Engenheiro
+Simone,Martins,31,São Paulo,Preto,Natação,Feminino,Sertanejo,Designer
+Bruna,Ribeiro,24,Porto Alegre,Vermelho,Handebol,Feminino,Pop,Professora
+Cristina,Silva,28,Brasília,Laranja,Judô,Feminino,Jazz,Psicóloga
+Gabriel,Barros,25,Campinas,Azul,Vôlei,Masculino,Eletrônica,Engenheiro
+Mariana,Castro,29,Rio de Janeiro,Verde,Tênis,Feminino,Samba,Designer
+Felipe,Oliveira,30,Salvador,Preto,Corrida,Masculino,Rock,Professor
+Amanda,Souza,22,Belo Horizonte,Amarelo,Futebol,Feminino,MPB,Estudante
+Roberta,Rocha,24,Recife,Branco,Basquete,Feminino,Sertanejo,Psicóloga
+Sérgio,Almeida,33,Curitiba,Vermelho,Natação,Masculino,Jazz,Engenheiro
+Tatiane,Pereira,25,Fortaleza,Laranja,Handebol,Feminino,Pop,Advogada
+Vinícius,Santos,27,Goiania,Azul,Judô,Masculino,MPB,Médico
+Eduarda,Silva,26,São Paulo,Verde,Vôlei,Feminino,Sertanejo,Psicóloga
+Diego,Gomes,30,Porto Alegre,Amarelo,Tênis,Masculino,Rock,Engenheiro
+Luana,Oliveira,23,Florianópolis,Preto,Corrida,Feminino,Jazz,Designer
+Lucas,Melo,28,Recife,Vermelho,Futebol,Masculino,MPB,Professor
+Marcelo,Martins,29,Rio de Janeiro,Azul,Basquete,Masculino,Pop,Psicólogo
+Catarina,Barros,32,São Paulo,Laranja,Natação,Feminino,Eletrônica,Advogada
+João,Ribeiro,27,Campinas,Branco,Handebol,Masculino,Sertanejo,Engenheiro
+Tânia,Fernandes,31,Belo Horizonte,Verde,Judô,Feminino,Samba,Designer
+Pedro,Silva,33,Fortaleza,Amarelo,Vôlei,Masculino,Rock,Psicólogo
+Patrícia,Oliveira,25,São Paulo,Preto,Tênis,Feminino,Jazz,Psicóloga
+Luciana,Almeida,30,Salvador,Corrida,Feminino,Sertanejo,Arquiteta
+Júnior,Martins,24,Rio de Janeiro,Verde,Futebol,Masculino,MPB,Estudante
+Cláudia,Rocha,29,Porto Alegre,Azul,Basquete,Feminino,Samba,Psicóloga
+Raul,Silva,27,Goiania,Amarelo,Natação,Masculino,Jazz,Designer
+Isabela,Ribeiro,22,Curitiba,Laranja,Handebol,Feminino,Pop,Psicóloga
+Diana,Souza,28,Florianópolis,Preto,Judô,Feminino,Eletrônica,Arquiteta
+Carlos,Barros,33,Brasília,Vermelho,Vôlei,Masculino,Sertanejo,Psicólogo
+Roberto,Oliveira,26,Recife,Azul,Tênis,Masculino,Jazz,Professor
+Lívia,Castro,23,Salvador,Verde,Corrida,Feminino,MPB,Estudante
+Flávia,Martins,27,Belo Horizonte,Amarelo,Futebol,Feminino,Rock,Psicóloga
+Rafael,Silva,32,São Paulo,Branco,Basquete,Masculino,Jazz,Engenheiro
+Cássia,Ribeiro,24,Porto Alegre,Laranja,Natação,Feminino,Sertanejo,Professora
+Thiago,Oliveira,29,Recife,Verde,Handebol,Masculino,Samba,Designer
+Juliana,Almeida,25,Florianópolis,Preto,Judô,Feminino,Pop,Psicóloga
+Marcelo,Santos,30,Goiania,Azul,Vôlei,Masculino,Eletrônica,Arquiteto
+Gustavo,Barros,32,Rio de Janeiro,Amarelo,Tênis,Masculino,Rock,Designer
+Paula,Melo,28,Campinas,Preto,Corrida,Feminino,MPB,Psicóloga
+Ricardo,Castro,26,São Paulo,Vermelho,Futebol,Masculino,Jazz,Professor
+Raquel,Pereira,31,Curitiba,Branco,Basquete,Feminino,Sertanejo,Advogada
+Gabriel,Rocha,29,Porto Alegre,Laranja,Natação,Masculino,Pop,Médico
+Vanessa,Oliveira,24,Brasília,Azul,Handebol,Feminino,MPB,Psicóloga
+Eduardo,Silva,33,Salvador,Preto,Tênis,Masculino,Samba,Designer
+Leandro,Souza,25,Florianópolis,Verde,Corrida,Masculino,Rock,Arquiteto
+Jéssica,Martins,28,Rio de Janeiro,Amarelo,Tênis,Feminino,Pop,Psicóloga
+Amanda,Barros,30,São Paulo,Laranja,Corrida,Feminino,Jazz,Designer
+Marcos,Oliveira,22,Recife,Preto,Futebol,Masculino,Sertanejo,Professor
+Carlos,Santos,26,Belo Horizonte,Azul,Basquete,Masculino,Samba,Psicólogo
+Roberta,Rocha,31,Curitiba,Verde,Natação,Feminino,Jazz,Arquiteta
+Fernanda,Barros,29,Porto Alegre,Vermelho,Handebol,Feminino,Pop,Psicóloga
